@@ -1,0 +1,85 @@
+#style-switcher h2 a { background: #D9B88E none repeat scroll 0 0 ;}
+
+.slicknav_nav_icon,
+.single_home_slide .subtitle,
+.datepicker-wrapper .ti-calendar,
+.sl-subtitle,
+.single-deal figcaption p span,
+.service .icon,
+.service a, 
+.service a:hover, 
+.service a:focus, 
+.single_package .time_zone,
+.single-contact-info i,
+.section-title span,
+.post-meta span i,
+.footer a:hover, 
+.footer a:focus,
+#testimonial-slider .owl-nav div,
+.tour_duration,
+.tour_slider .slick-prev::before, 
+.tour_slider .slick-next::before,
+.pack_price,
+.post-meta span i,
+.widget_categories i,
+#navigation.navbar-fixed #main-menu ul li a:hover,
+#navigation.navbar-fixed #main-menu ul li a:focus,
+#main-menu ul li a:hover,
+#main-menu ul li a:focus,
+.btn-home-bg:hover,
+.btn-home-bg:focus,
+.widget li a:hover,
+.widget li a:focus,
+.slicknav_nav_icon
+{
+	color: #D9B88E;
+}
+
+.single-counter,
+.gallery_enlarge_icon,
+#testimonial-slider .owl-nav button{
+	background-color: #D9B88E;
+}
+.home-slider .slick-prev:hover::before, 
+.home-slider .slick-next:hover::before,
+.btn-home-bg,
+.single-choose i,
+.gallery-btn,
+.single-counter span,
+#package-slider .owl-dots .owl-dot.active span,
+#submitButton.btn-contact-bg,
+.widget_title::after, 
+.footer .fot-title::after,
+.topcontrol,
+.widget.widget_categories ul > li:hover,
+.pagination-nav a:hover, 
+.pagination-nav a:focus, 
+.pagination-nav a.active,
+.search_form button,
+.widget_tag_cloud a:hover, 
+.widget_tag_cloud a:focus,
+.post_tags a:hover,
+.post_tags a:focus{
+	background-color: #D9B88E;
+	border-color: #D9B88E;
+}
+#submitButton.btn-contact-bg:hover,
+#submitButton.btn-contact-bg:focus{
+	background-color: #211E3B;
+	border-color: #211E3B;
+}
+.book_now .form-control:focus,
+.contact .form-control:focus,
+.partner-logo .owl-carousel .owl-item img,
+.search_form .form-control:focus,
+.travel-search-form .form-control:focus,
+.pagination-nav a:hover, 
+.pagination-nav a:focus, 
+.pagination-nav a.active,
+.single_package{
+	border-color: #D9B88E;
+}
+.btn-home-bg:hover, 
+.btn-home-bg:focus{
+	color: #fff;
+}
